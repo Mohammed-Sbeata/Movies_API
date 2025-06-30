@@ -1,4 +1,3 @@
-https://gsg-g13.github.io/Nour-Khaled/
 
 Movies App
 An application can help users discover new movies that they may enjoy.
